@@ -1,5 +1,6 @@
 package web
 
+// IndexTmpl defines the HTML template for index page
 const IndexTmpl = `<!DOCTYPE html>
 <html>
 	<head>
